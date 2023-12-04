@@ -1,0 +1,10 @@
+numpy==1.26.0
+tensorflow==2.14.0
+librosa==0.10.1
+tqdm
+matplotlib
+yt_dlp
+sklearn
+flask
+flask_cors
+moviepy
